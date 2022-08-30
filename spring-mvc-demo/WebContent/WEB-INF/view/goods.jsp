@@ -8,15 +8,6 @@
 </head>
 <body>
     
-    Hello World of Spring
-
-    <br><br>
-    Student name : ${param.studentName}
-    <br><br>
-    
-    The Message : ${message}
-    <br><br>
-    <a href="goods">Click here to see goods</a>
-
+    The Message : ${messageGoods}
 </body>
 </html>
