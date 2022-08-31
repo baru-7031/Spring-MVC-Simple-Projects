@@ -8,8 +8,19 @@
 
 <body>
 
-The Customer Form Value is : ${customer.firstName} ${customer.lastName}
+The Customer Form Value is : ${customer.firstName} ${customer.lastName} 
 
+<br><br>
+
+Free Passes : ${customer.freePasses}
+
+<br><br>
+
+Postal Code : ${customer.postalCode}
+
+<br><br>
+
+Course Code : ${customer.courseCode}
 
 </body>
 
